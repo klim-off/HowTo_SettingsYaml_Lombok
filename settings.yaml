@@ -1,0 +1,14 @@
+animals:
+  - name: "cat"
+    age: 3
+    weight: 5
+    emoji: "😸"
+  - name: "dog"
+    age: 5
+    weight: 10
+    emoji: "🐶"
+  - name: "bird"
+    age: 1
+    weight: 1
+    emoji: "🐦"
+day: 100
